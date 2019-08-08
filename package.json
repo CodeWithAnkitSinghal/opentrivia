@@ -2,7 +2,7 @@
   "name": "OpenTrivia",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
